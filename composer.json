@@ -2,7 +2,7 @@
     "name": "resumeblaze/authorizenet",
     "type": "library",
 	"version": "2.0.3",
-    "description": "Official PHP SDK for Authorize.Net",
+    "description": "Forked From Official PHP SDK for Authorize.Net. Suppress error JsonSerializable. Add support for PHP 8.1",
     "keywords": ["authorizenet", "authorize.net", "payment", "ecommerce"],
     "license": "proprietary",
     "homepage": "http://developer.authorize.net",
