@@ -2,10 +2,18 @@
     "name": "resumeblaze/authorizenet",
     "type": "library",
 	"version": "2.0.5",
-    "description": "Forked From Official PHP SDK for Authorize.Net. Suppress deprecation notices for get_class(). Add support for PHP 8.3",
-    "keywords": ["authorizenet", "authorize.net", "payment", "ecommerce"],
+    "description": "Forked From Official PHP SDK for Authorize.Net. Suppress deprecation notices. Add support for PHP 8.1, 8.2, and 8.3.",
+    "keywords": ["authorizenet", "authorize.net", "payment", "ecommerce", "PHP8.1 support", "PHP8.2 support", "PHP8.3 support"],
     "license": "proprietary",
-    "homepage": "http://developer.authorize.net",
+    "homepage": "http://www.resumeblaze.com",
+    "authors": [
+        {
+            "name": "ResumeBlaze",
+            "email": "hello@resumeblaze.com",
+            "homepage": "https://www.resumeblaze.com",
+            "role": "maintainer"
+        }
+    ],
     "require": {
         "php": ">=8.3",
         "ext-curl": "*",
