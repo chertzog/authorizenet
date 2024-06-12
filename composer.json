@@ -1,7 +1,7 @@
 {
-    "name": "resumeblaze/authorizenet",
+    "name": "chertzog/authorizenet",
     "type": "library",
-	"version": "2.0.5",
+    "version": "1.0.0",
     "description": "Forked From Official PHP SDK for Authorize.Net. Suppress deprecation notices. Add support for PHP 8.1, 8.2, and 8.3.",
     "keywords": ["authorizenet", "authorize.net", "payment", "ecommerce", "PHP8.1 support", "PHP8.2 support", "PHP8.3 support"],
     "license": "proprietary",
